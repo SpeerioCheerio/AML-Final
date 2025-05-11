@@ -1,0 +1,20 @@
+# Do not track raw or preprocessed EEG data
+processed_eeg_data/
+sleep_only_data/
+sleep-cassette/
+
+# Windows system files
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Ignore model artifacts
+*.h5
+*.keras
+*.ckpt
+
+# VSCode settings (optional)
+.vscode/

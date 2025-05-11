@@ -1,0 +1,16 @@
+mean
+std
+delta_power
+theta_power
+alpha_power
+beta_power
+gamma_power
+delta_power_log
+theta_power_log
+alpha_power_log
+beta_power_log
+gamma_power_log
+delta_theta_ratio
+theta_alpha_ratio
+slow_fast_ratio
+prev_stage

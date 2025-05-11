@@ -1,0 +1,26 @@
+subject_id: 4072
+channels: ['EEG Fpz-Cz', 'EEG Pz-Oz']
+sampling_frequency: 100.0
+n_epochs: 2770
+psg_file: SC4072E0-PSG.edf
+hypno_file: SC4072EH-Hypnogram.edf
+sleep_only: True
+original_epochs: 5540
+sleep_only_epochs: 1732
+features_engineered: True
+engineered_features: delta_power_log,theta_power_log,alpha_power_log,beta_power_log,gamma_power_log,delta_theta_ratio,theta_alpha_ratio,slow_fast_ratio,prev_stage
+stft_diagnostic_stage_1_example_0: saved
+stft_diagnostic_stage_1_example_1: saved
+stft_diagnostic_stage_1_example_2: saved
+stft_diagnostic_stage_2_example_0: saved
+stft_diagnostic_stage_2_example_1: saved
+stft_diagnostic_stage_2_example_2: saved
+stft_diagnostic_stage_3_example_0: saved
+stft_diagnostic_stage_3_example_1: saved
+stft_diagnostic_stage_3_example_2: saved
+stft_diagnostic_stage_4_example_0: saved
+stft_diagnostic_stage_4_example_1: saved
+stft_diagnostic_stage_4_example_2: saved
+stft_diagnostic_stage_5_example_0: saved
+stft_diagnostic_stage_5_example_1: saved
+stft_diagnostic_stage_5_example_2: saved
